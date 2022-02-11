@@ -2,6 +2,12 @@
 DevC3 is small, open source board (shaped as dongle) based on ESP32-C3 with MicroPython support. Its designed in [EasyEDA](https://easyeda.com/editor) and its fully assemblable in [JLCPCB assembly](https://jlcpcb.com/).
 You can find it on the [OSHWLab](https://oshwlab.com/trty69230/devc3), or in this repository.
 
+![assembled](images/P_20220211_172651[1].jpg)
+![top](images/P_20220211_172717[1].jpg)
+![bot](images/P_20220211_172736[1].jpg)
+![hand](images/P_20220211_172917[1].jpg)
+![leds](images/P_20220211_181910[1].jpg)
+
 # Installing MicroPython
 For now, there is not any direct port of MicroPython, but [GENERIC_C3_USB](https://github.com/micropython/micropython/tree/master/ports/esp32/boards/GENERIC_C3_USB) works perfectly! The installation process is basically:
 
