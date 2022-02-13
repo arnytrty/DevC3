@@ -1,3 +1,7 @@
+## THIS BOARD HAVE AN ERROR WITH WIFI & RESTART, I AM WORKING ON THE FIX BUT DONT CREATE IT YET
+
+---
+
 # DevC3
 DevC3 is small, open source board (shaped as dongle) based on ESP32-C3 with MicroPython support. Its designed in [EasyEDA](https://easyeda.com/editor) and its fully assemblable in [JLCPCB assembly](https://jlcpcb.com/).
 You can find it on the [OSHWLab](https://oshwlab.com/trty69230/devc3), or in this repository.
